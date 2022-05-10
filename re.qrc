@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/anh">
+        <file>assets_candy.png</file>
+        <file>background.png</file>
+        <file>Candy_menu.jpg</file>
+        <file>UI.png</file>
+        <file>logo.png</file>
+        <file>nennau.png</file>
+        <file>Sweets.png</file>
+        <file>bar.png</file>
+        <file>background_blur.png</file>
+        <file>explotion.png</file>
+        <file>gameover.png</file>
+        <file>UI2.png</file>
+    </qresource>
+</RCC>
